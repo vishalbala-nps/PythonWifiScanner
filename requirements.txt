@@ -1,0 +1,2 @@
+arpreq==0.3.3
+prettytable==0.7.2
